@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Android Rocks Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lyrics">Lyrics My Song \n\n
+    Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam,
+        ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie,
+        a fusce  a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in.
+        Wisi mattis leo suscipit nec amet,  nisl fermentum tempor ac a, augue in eleifend in venenatis,
+        cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat,
+        quia tellus convallis eros rhoncus diam orci,
+        porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.
+    </string>
+    <string name="blog">Blog</string>
+    <string name="code">Source Code</string>
+
+</resources>
